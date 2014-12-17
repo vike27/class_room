@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  boys: 1
+  girls: 1
+  teachers: 1
+  total: 1
+  students: 1
+
+two:
+  boys: 1
+  girls: 1
+  teachers: 1
+  total: 1
+  students: 1
